@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Tobol",
-    "path": "Tobol.yyp",
+    "name": "Gimmicks",
+    "path": "folders/Объекты/Gimmicks.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -5,7 +5,7 @@
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Объекты",
-    "path": "folders/Объекты.yy",
+    "name": "Player",
+    "path": "folders/Объекты/Player.yy",
   },
 }

@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Объекты",
-    "path": "folders/Объекты.yy",
+    "name": "Solids",
+    "path": "folders/Объекты/Solids.yy",
   },
   "parentObjectId": null,
   "persistent": false,

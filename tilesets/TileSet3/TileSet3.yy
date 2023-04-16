@@ -12,8 +12,8 @@
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
-    "name": "Румы",
-    "path": "folders/Румы.yy",
+    "name": "Наборы плиток",
+    "path": "folders/Наборы плиток.yy",
   },
   "spriteId": null,
   "spriteNoExport": true,

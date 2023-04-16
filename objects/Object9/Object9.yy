@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Объекты",
-    "path": "folders/Объекты.yy",
+    "name": "Level Surfaces",
+    "path": "folders/Объекты/Level Surfaces.yy",
   },
   "parentObjectId": {
     "name": "parSolid",

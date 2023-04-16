@@ -3,4 +3,4 @@
 
 instance_destroy();
 
-global.enemyHp -= global.enemyHpMax / 7;
+global.enemyHp -= global.enemyHpMax / 4;//7;

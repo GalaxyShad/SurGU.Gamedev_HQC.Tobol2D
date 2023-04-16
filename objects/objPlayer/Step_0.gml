@@ -76,6 +76,13 @@ if (_canon && action == ACT_ATTACK) {
 		_cb.vspeed = -5;
 		_cb.hspeed = 16;
 		_canon.recharge_timer = _canon.RECHARGE;
+		
+		xsp =- 12;
+		ysp = -4;
+		
+		ground = false;
+		
+		action = ACT_JUMP;
 	}
 }
 

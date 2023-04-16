@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Tobol",
-    "path": "Tobol.yyp",
+    "name": "Спрайты",
+    "path": "folders/Спрайты.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

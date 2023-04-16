@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Объекты",
-    "path": "folders/Объекты.yy",
+    "name": "Player",
+    "path": "folders/Объекты/Player.yy",
   },
   "parentObjectId": null,
   "persistent": false,
