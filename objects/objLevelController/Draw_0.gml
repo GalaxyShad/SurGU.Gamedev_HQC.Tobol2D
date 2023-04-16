@@ -12,7 +12,8 @@ y = camera_get_view_y(cam) + 120;
 
 draw_set_color(c_white);
 
-draw_text(x- l /2, y+ 96 - 12, "HP Tobol Fortress");
+draw_set_font(fntAtk);
+draw_text(x- l /2, y+ 96 - 40, "HP Tobol Fortress");
 
 draw_rectangle(x - l /2 -2, y + 96 - 2 - 2, x -l/2  + l + 2, y + 96 + 2 + 2, false);
 draw_set_color(c_black);
@@ -24,7 +25,7 @@ draw_set_color(c_white);
 r = global.enemyHp / global.enemyHpMax;
 l = 100;
 
-draw_text(x- l /2, y - 96 - 12, "HP Djungari");
+draw_text(x- l /2, y - 96 - 40, "HP Djungari");
 draw_set_color(c_white);
 draw_rectangle(x - l /2 -2, y - 96 - 2 - 2, x -l/2  + l + 2, y - 96 + 2 + 2, false);
 
