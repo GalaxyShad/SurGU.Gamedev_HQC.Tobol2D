@@ -1,3 +1,6 @@
+# Tobol 2D
+![Tobol](https://github.com/user-attachments/assets/f2a44eea-c5ba-4b1a-9cc2-304fb1be3506)
+
 # Как запустить игру
 1. Скачать движок Game Maker: Studio 2 с официального сайта https://gamemaker.io/ru
 2. Склонировать данный репозиторий
